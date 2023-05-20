@@ -5,6 +5,8 @@ class UniquePascalTriangle
 {
     static void Main()
     {
+        Console.WriteLine("Please Enter PascalTriangel number [ 0 - 13 ]");
+
         while (true)
         {
             int input = ReadPositiveInteger();
@@ -26,7 +28,7 @@ class UniquePascalTriangle
         int number;
         while (true)
         {
-            if (int.TryParse(Console.ReadLine(), out number) && number > 0)
+            if (int.TryParse(Console.ReadLine(), out number))
                 return number;
         }
     }
@@ -58,3 +60,5 @@ class UniquePascalTriangle
         return number * CalculateFactorial(number - 1);
     }
 }
+
+

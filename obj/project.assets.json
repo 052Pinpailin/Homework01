@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\การบ้านโค้ด\\triangle\\triangle.csproj",
+      "projectUniqueName": "E:\\triangle\\triangle.csproj",
       "projectName": "triangle",
-      "projectPath": "E:\\การบ้านโค้ด\\triangle\\triangle.csproj",
+      "projectPath": "E:\\triangle\\triangle.csproj",
       "packagesPath": "C:\\Users\\ปิ่นไพลิน\\.nuget\\packages\\",
-      "outputPath": "E:\\การบ้านโค้ด\\triangle\\obj\\",
+      "outputPath": "E:\\triangle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ปิ่นไพลิน\\AppData\\Roaming\\NuGet\\NuGet.Config"
